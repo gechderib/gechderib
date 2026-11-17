@@ -1,77 +1,89 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:102a43,25:1d4ed8,50:38bdf8,100:0ea5e9&height=190&section=header&text=Getachew%20Derib&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20Full-Stack%20Software%20Engineer%20%7C%20Python%20%7C%20Fintech%20%7C%20AI&descAlignY=58&descSize=15" alt="Getachew Derib — Senior Full-Stack Software Engineer" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0b1220&height=190&section=header&text=GETACHEW%20DERIB&fontSize=42&fontColor=f8fafc&animation=fadeIn&fontAlignY=38&desc=Senior%20Full-Stack%20Software%20Engineer%20%7C%20AI%20%26%20Fintech&descAlignY=67&descSize=16" alt="Getachew Derib — Senior Full-Stack Software Engineer, AI and Fintech" />
 </div>
 
 <p align="center">
-  <b>Addis Ababa, Ethiopia</b><br />
-  <a href="mailto:gechderib1221@gmail.com">gechderib1221@gmail.com</a> · +251 953 890 542
+  <b>Applied AI · Financial Technology · Distributed Web Systems</b><br />
+  Addis Ababa, Ethiopia &nbsp;·&nbsp; <a href="mailto:gechderib1221@gmail.com">gechderib1221@gmail.com</a> &nbsp;·&nbsp; +251 953 890 542
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/getachew-derib-057161203/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/gechderib/"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://getachewderib.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/getachew-derib-057161203/"><img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
+  <a href="https://github.com/gechderib/"><img src="https://img.shields.io/badge/GitHub-Projects-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub profile" /></a>
+  <a href="https://getachewderib.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-0F766E?style=flat-square&logo=netlify&logoColor=white" alt="Portfolio" /></a>
 </p>
 
-## About Me
+---
 
-Senior full-stack software engineer with **4+ years of experience** building and maintaining web applications across fintech, financial services, and gaming. I develop backend services and REST APIs with Python, Django, and FastAPI, and build frontend applications with React and Node.js. My experience includes payment and banking integrations, transaction workflows, and production systems, alongside machine learning and LLM-powered application development. I enjoy owning features end to end and collaborating across product and engineering teams.
+## Profile
 
-## Technical Skills
+Senior full-stack software engineer with **4+ years of experience** building production applications across fintech, financial services, and gaming. I design and deliver backend services, REST APIs, transaction workflows, and user-facing applications—with a growing focus on **applied machine learning and LLM-powered products**.
 
-| Area | Technologies |
+My work spans Python services (Django, Django REST Framework, FastAPI), React and Node.js applications, payment and banking integrations, and data systems. I’m interested in making AI useful in real products: integrating language models and agents into reliable application workflows, and applying machine learning to structured financial data. I’m comfortable owning features end to end and working across product and engineering teams.
+
+## AI & Engineering Focus
+
+- **Applied ML:** scikit-learn and LightGBM; model-driven exploration of fraud detection and loan approval using structured data.
+- **LLM applications:** LangChain, LLM integration, prompt engineering, and AI agents.
+- **Production engineering:** REST APIs, microservices, secure transaction flows, integrations, and maintainable service design.
+- **Fintech systems:** digital savings, digital loans, remittance, payments, crowdfunding, insurance, and banking integrations.
+- **Current product work:** building an offline-first shop management SaaS for small retailers.
+
+## Technical Toolkit
+
+| Domain | Tools and technologies |
 | --- | --- |
 | **Languages** | Python, JavaScript, TypeScript, Java, Go, Dart |
-| **Backend** | Django, Django REST Framework, FastAPI, Node.js, Express.js, Spring Boot, REST APIs, microservices |
+| **AI / ML** | scikit-learn, LightGBM, LangChain, LLM integration, prompt engineering, AI agents |
+| **Backend & APIs** | Django, Django REST Framework, FastAPI, Node.js, Express.js, Spring Boot, REST APIs, microservices |
 | **Frontend & Mobile** | React, Redux Toolkit, Tailwind CSS, Material UI, Flutter |
-| **Databases & Messaging** | PostgreSQL, MySQL, MongoDB, Redis, RabbitMQ |
-| **AI & Machine Learning** | scikit-learn, LightGBM, LangChain, LLM integration, prompt engineering, AI agents |
-| **Cloud & DevOps** | Docker, AWS, Git |
+| **Data & Messaging** | PostgreSQL, MySQL, MongoDB, Redis, RabbitMQ |
+| **Cloud & Delivery** | Docker, AWS, Git |
 | **Security & Integrations** | JWT, OAuth, payment integrations, banking integrations |
 
-## Professional Experience
+## Experience
 
 ### Mereb · Full-Stack / Backend Developer
 **June 2025 – Present**
 
-- Develop backend services for a peer-to-peer betting and gaming platform using Django and PostgreSQL.
-- Build and maintain application features and APIs for core platform workflows and reliable data processing.
-- Contribute to production gaming systems, including poker functionality, with a focus on performance, stability, and maintainability.
-- Work on backend and integration tasks with the wider team to deliver and support platform features.
+- Develop Django and PostgreSQL backend services for a peer-to-peer betting and gaming platform.
+- Build and maintain APIs and application features that support core platform workflows and reliable data processing.
+- Contribute to production gaming systems, including poker functionality, with attention to performance, stability, and maintainability.
+- Collaborate across backend and integration work to deliver and support platform features.
 
 ### Kacha S.C. · Full-Stack Developer
 **December 2023 – June 2025 · Addis Ababa, Ethiopia**
 
-- Designed and developed backend functionality for digital savings, digital loans, remittance, payments, and crowdfunding services.
-- Implemented and supported production remittance services, including Mastercard integration and related transaction workflows.
-- Built APIs and secure transaction mechanisms using Django, FastAPI, and Node.js, with React-based web functionality.
-- Delivered backend functionality for the company's premium insurance product and contributed to production digital savings services.
-- Worked with PostgreSQL and MongoDB to support financial application data and maintainable service development.
+- Designed backend capabilities for digital savings, digital loans, remittance, payments, and crowdfunding services.
+- Implemented and supported production remittance services, including Mastercard integration and transaction workflows.
+- Built APIs and secure transaction mechanisms with Django, FastAPI, and Node.js, alongside React-based web functionality.
+- Delivered backend functionality for a premium insurance product and contributed to production digital savings services.
+- Used PostgreSQL and MongoDB to support financial application data and maintainable service development.
 
 ### eTech S.C. · Full-Stack Developer
 **July 2023 – December 2023 · Addis Ababa, Ethiopia**
 
-- Developed and maintained REST APIs for SACCO applications covering savings, loans, repayments, and transaction processing.
-- Integrated third-party banking systems to support fund transfers and customer payment workflows.
-- Improved database structure and implemented application security measures to support data integrity and reliable financial operations.
-- Worked across backend and frontend features using Python frameworks, Node.js, React, PostgreSQL, and MongoDB.
+- Developed REST APIs for SACCO applications covering savings, loans, repayments, and transaction processing.
+- Integrated third-party banking systems for fund transfers and customer payment workflows.
+- Improved database structure and implemented application security measures for data integrity and reliable financial operations.
+- Delivered backend and frontend features using Python frameworks, Node.js, React, PostgreSQL, and MongoDB.
 
 ### Upwork · Freelance Software Engineer
 **August 2021 – Present · Remote**
 
 - Delivered a Node.js email announcement application with scheduling, template management, and bulk email functionality.
-- Developed features for an insurance management system using React and Node.js, including authentication, claims processing, and policy management.
-- Worked with international clients on web application development across different business domains.
+- Built React and Node.js features for an insurance management system, including authentication, claims processing, and policy management.
+- Worked with international clients on web application development across business domains.
 
-## Selected Projects
+## Selected Work
 
-- **Digital Savings & Remittance** — Fintech product work involving digital savings workflows and remittance services.
-- **Mobile Money** — Digital financial services project supporting payment and wallet-related functionality.
-- **Poker Platform** — Contributed to a production poker game supporting millions of users on large-scale infrastructure.
-- **Premium Insurance** — Delivered the backend for a production insurance product.
-- [**Financial Fraud Detection**](https://github.com/gechderib/Financial-Fraud-Detection) — Machine-learning project for analyzing financial transactions and identifying potentially fraudulent activity.
-- [**AI Loan Approval**](https://github.com/gechderib/AI-loan-approval) — Machine-learning project exploring loan-approval prediction using structured application data.
-- **Smart Shop Manager SaaS** — Building an offline-first shop management SaaS for small retailers.
+- **Financial Fraud Detection** · [Repository](https://github.com/gechderib/Financial-Fraud-Detection) — machine-learning project exploring transaction analysis and potentially fraudulent activity.
+- **AI Loan Approval** · [Repository](https://github.com/gechderib/AI-loan-approval) — model-based exploration of loan approval prediction from structured application data.
+- **Poker Platform** — contributed to a production poker game supporting millions of users on large-scale infrastructure.
+- **Digital Savings & Remittance** — fintech product work spanning savings workflows and production remittance services.
+- **Mobile Money** — digital financial services project supporting payment and wallet-related functionality.
+- **Premium Insurance** — delivered backend functionality for a production insurance product.
+- **Smart Shop Manager SaaS** — building an offline-first shop management product for small retailers.
 
 ## Education
 
@@ -80,4 +92,4 @@ Addis Ababa Institute of Technology, Addis Ababa University · Addis Ababa, Ethi
 
 ---
 
-<p align="center"><i>Building dependable software for real-world financial and business workflows.</i></p>
+<p align="center"><sub>Engineering reliable products at the intersection of software, financial services, and applied AI.</sub></p>
